@@ -1,0 +1,17 @@
+media queries
+
+@medai only screen and (min-width:600px)
+{
+Extra-scamll devices;max width:600px
+small devices- min width 600px and up
+MEDIUM devices- min width 768px and up
+LARGE devices- min width 992px and up
+extra large minm weight 1024px AND UP
+
+task-2
+======
+1.json
+2.javaskript intro
+dom and bom
+selectors(id and class)
+

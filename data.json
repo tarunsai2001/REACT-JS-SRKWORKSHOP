@@ -1,0 +1,11 @@
+{
+    "basics":{
+        "name":"a",
+        "age":23,
+        "designation":"Senior manager",
+    },
+    "carrerobjective":
+    {
+        "career":"google"
+    }
+}

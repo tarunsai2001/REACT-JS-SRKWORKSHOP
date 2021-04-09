@@ -1,11 +1,34 @@
 {
     "basics":{
-        "name":"a",
+        "name":"Tarun sai",
         "age":23,
-        "designation":"Senior manager",
+        "designation":"Senior manager"
     },
     "carrerobjective":
     {
         "career":"google"
-    }
+    },
+    "Education":[
+        {
+            "institute":"Narayana school",
+            "Degree":"SSC",
+            "Year":"2017"
+            
+            
+        },
+        {
+            "institute":"Narayana college",
+            "Degree":"Intermediate",
+            "Year":"2019"
+            
+            
+        },
+        {
+            "institute":"srkit",
+            "Degree":"BTECH",
+            "Year":"2023"
+            
+            
+        }
+    ]
 }
